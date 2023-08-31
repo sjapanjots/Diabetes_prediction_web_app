@@ -10,7 +10,7 @@ import pickle
 import streamlit as st
 
 # loadinf the saved model 
-loaded_model = pickle.load(open('C:/Model_dep/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Model_dep/trained_model.sav'))
 
 #creating a function for prediciton 
 
