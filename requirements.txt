@@ -1,6 +1,4 @@
-pandas==1.5.3
-numpy==1.5.3
-pickleshare==0.7.5
-streamlit==1.25.0
-scikit-learn==1.2.2
-
+numpy==1.21.4
+pickle-mixin==1.0.2
+streamlit==1.2.0
+scikit-learn==1.0.1
