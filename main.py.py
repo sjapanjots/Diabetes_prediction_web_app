@@ -66,12 +66,3 @@ if __name__ == '__main__':
     main()
 
 
-
- st.markdown("""
-    ---
-    Model is not 100% Accurate and Build Only with Given Data
-
-    
-    Design and Developed by Japanjot Singh  (https://github.com/japanjot)
-    """)
-    
