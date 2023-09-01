@@ -70,9 +70,8 @@ hide_st_style = """
             <style>
             footer {visibility: hidden;}
             header {visibility: hidden;}
-
-            Design and Developed by Japanjot Singh 
             </style>
+              Design and Developed by Japanjot Singh 
             """
 st.markdown(hide_st_style , unsafe_allow_html=True)
 
