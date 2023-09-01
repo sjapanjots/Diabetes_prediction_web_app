@@ -45,7 +45,7 @@ def main():
     Glucose = st.text_input('Glucose Level')
     BloodPressure = st.text_input('Blood Pressure Level')
     SkinThickness = st.text_input('Skin Thickness Level ')
-    Insulin = st.text('Insulin Level')
+    Insulin = st.text_input('Insulin Level')
     BMI = st.text_input('BMI value')
     DiabetesPedigreeFunction = st.text_input('Diabetes Pedigree Function Value ')
     Age = st.text_input('Age of the person')
