@@ -65,13 +65,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-uploaded_file = st.file_uploader(
-    "C:/Model_dep/trained_model.sav", accept_multiple_files=False)
-if uploaded_file is not None:
-    file_name = uploaded_file
-else:
-    file_name = "C:/Model_dep/trained_model.sav"    
-    
+
     
     
     
