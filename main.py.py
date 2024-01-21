@@ -80,7 +80,7 @@ hide_st_style = """
             footer {visibility: hidden;}
             header {visibility: hidden;}
             </style>
-              Design and Developed by Ishan Sethi 
+              Design and Developed by Japanjot Singh 
             """
 st.markdown(hide_st_style , unsafe_allow_html=True)
 
